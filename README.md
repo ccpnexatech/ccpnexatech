@@ -2,9 +2,9 @@
 
 # Caio César Ponte
 
-**Pré-vendas Técnico & Solutions Engineer** · Discovery · APIs & Integrações · SQL · Power BI
+**Desenvolvedor Front-End & Mobile** · React Native · TypeScript · APIs REST · Firebase
 
-Fortaleza/CE · Remoto Brasil/EUA · English (advanced)
+Apps publicados na App Store e Google Play · Fortaleza/CE · Presencial, híbrido ou remoto · English (advanced)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caio--cesar--ponte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cesar-ponte/)
 [![E-mail](https://img.shields.io/badge/E--mail-ccpnexatech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccpnexatech@gmail.com)
@@ -17,49 +17,43 @@ Fortaleza/CE · Remoto Brasil/EUA · English (advanced)
 
 ## O que eu faço
 
-Quatro anos construindo software me mostraram que a parte que mais importa acontece **antes do código**: entender quem vai usar, mapear o processo por trás do pedido e desenhar a solução junto com quem decide.
+Sou desenvolvedor front-end e mobile, com 4 anos em tecnologia na **Itarget Tecnologia**. Comecei como trainee de TI mapeando processos e documentação, e hoje desenvolvo interfaces web e aplicativos em **React Native** — da implementação à publicação na App Store e no Google Play.
 
-Hoje trabalho na fronteira entre produto, operação e engenharia na **Itarget Tecnologia**: recebo a demanda de negócio, faço o discovery, mapeio a regra e devolvo especificação técnica — endpoints, integrações e critérios de aceite — que vira o contrato entre produto e desenvolvimento.
-
-## Como eu trabalho com IA
-
-Meu diferencial é transformar trabalho complexo e demorado em algo **rápido, testado e reproduzível** — usando IA com regras, não no improviso:
-
-- **Regras versionadas** (`CLAUDE.md` + regras por assunto) que qualquer pessoa clona e reproduz
-- **Portões de decisão**: a IA executa, eu decido — cada escolha com alternativa vira um ADR público
-- **Gates automáticos** (lint, testes, contrato de API) no CI, não na memória de ninguém
-
-> Exemplo vivo: [**fidc-onboarding-cedente**](https://github.com/ccpnexatech/fidc-onboarding-cedente) — do discovery ao contrato OpenAPI homologado, com cada decisão registrada.
+- 📱 **Mobile e web** — telas fiéis ao design, com foco na experiência do usuário, em React Native, React e TypeScript
+- 🔌 **Integrações** — APIs REST, incluindo APIs financeiras e de IA e a migração da nossa API legada para a nova (mapeamento de endpoints, tratamento de erros e contingência)
+- 📊 **Produção** — Firebase e Microsoft Clarity para monitorar, entender o comportamento do usuário e diagnosticar problemas
+- 🤝 **Ponte com o negócio** — discovery com as áreas de negócio, transformado em especificação técnica e em produto funcionando
+- 👥 **Time** — capacitação técnica interna, mentoria e cultura de code review
 
 ## Projetos em destaque
 
-| Projeto | Problema que resolve | O que demonstra |
+| Projeto | O que é | O que demonstra |
 |---|---|---|
-| [**fidc-onboarding-cedente**](https://github.com/ccpnexatech/fidc-onboarding-cedente) 🚧 | Remessas de recebíveis mal especificadas viram retrabalho entre operação e TI | Discovery, histórias Gherkin, OpenAPI, Postman/Newman em CI, conciliação SQL |
-| [**ofix**](https://github.com/ccpnexatech/ofix) | Assistências técnicas controlam ordens de serviço em papel e WhatsApp | SaaS multi-tenant, aprovação de orçamento por link, isolamento entre clientes |
-| **TransparênciaBR** | Avaliar risco de empresas exige cruzar dados públicos espalhados | API de inteligência empresarial com score de risco sobre dados públicos |
-| [**votoclaro**](https://github.com/ccpnexatech/votoclaro) | Dados políticos públicos são difíceis de ler | Coleta e tratamento de dados abertos (Python) |
+| [**ofix**](https://github.com/ccpnexatech/ofix) | SaaS de ordens de serviço para assistências técnicas | Next.js, NestJS, PostgreSQL, TypeScript strict, multi-tenant com isolamento real, CI com typecheck/lint/testes, ADRs |
+| [**sass-agenda-flow**](https://github.com/ccpnexatech/sass-agenda-flow) | Dashboard de agendamentos para salões e clínicas | Métricas animadas, gráficos, CRUD com filtros e paginação, exportação CSV, tema dark/light |
+| [**leadflow**](https://github.com/ccpnexatech/leadflow) | Geração de leads para prospecção no LinkedIn | Integração com Brave Search API, open source, sem login nem armazenamento de dados |
+| **TransparênciaBR** | API de inteligência empresarial com dados públicos | Java 21, Spring Boot 3, Redis, circuit breaker e cache com fallback, score de risco explicável |
+| [**fidc-onboarding-cedente**](https://github.com/ccpnexatech/fidc-onboarding-cedente) 🚧 | Especificação de onboarding de cedentes de FIDC | Discovery, histórias Gherkin, contrato OpenAPI, Postman/Newman em CI |
 
-## O que levo para uma mesa de cliente
+## Como eu trabalho
 
-- **Discovery técnico** — entender a operação antes de propor ferramenta
-- **Arquitetura de integração** — APIs, ERPs, dados entre sistemas: o que é viável e a que custo
-- **Dados que sustentam a conversa** — SQL, modelagem, Power BI
-- **Tradução** — explicar sistema complexo para quem não é técnico (documentação, treinamento, mentoria)
+- **Commits pequenos e contextualizados**, CI verde antes de qualquer merge
+- **Decisões registradas** em ADR, com alternativas consideradas
+- **IA com regras, não no improviso** — regras versionadas e portões de decisão: a IA executa, eu decido
 
 ## Stack
 
-`SQL` `PostgreSQL` `REST APIs` `OpenAPI/Swagger` `Postman` `TypeScript` `Node.js/NestJS` `React/React Native` `Python` `Power BI` `Scrum/Kanban` `BDD`
+`TypeScript` `JavaScript` `React Native` `React` `Next.js` `HTML/CSS` `REST APIs` `Firebase` `Microsoft Clarity` `Node.js/NestJS` `SQL` `PostgreSQL` `NoSQL` `Git` `CI/CD` `Scrum/Kanban`
 
 ---
 
 ## 🇺🇸 English
 
-**Technical Pre-Sales & Solutions Engineer** with 4 years in software engineering. I work where business, operations and engineering meet: running discovery, mapping the rule behind each request and turning it into technical specs — endpoints, integrations and acceptance criteria.
+**Front-End & Mobile Developer** with 4 years in tech at Itarget Tecnologia. I build web interfaces and **React Native** apps — from implementation to publishing on the App Store and Google Play — integrate them with REST APIs (including financial and AI APIs and our legacy-to-new API migration), and use Firebase and Microsoft Clarity to monitor production and understand user behavior.
 
-My edge is **AI used with discipline**: versioned rules, decision gates (AI executes, I decide, every decision becomes a public ADR) and automated quality gates — so complex work becomes fast, tested and reproducible by anyone.
+My edge is bridging business and engineering: I run discovery with business teams and turn the rule behind each request into technical specs and working product.
 
-Open to Technical Pre-Sales, Solutions Engineering, Implementation Consulting and Business Analysis roles — remote (Brazil/US) or Fortaleza-CE.
+Open to Front-End, Mobile or React Native Developer roles — remote or Fortaleza-CE.
 
 <div align="center">
 
